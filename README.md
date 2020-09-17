@@ -1,5 +1,7 @@
 # Mapping Covid-19 using Social Media
 
+**Note:** This is a collaborative project with Jason Lee and Mathew Staples.
+
 - [Problem Statement](#Problem-Statement)
 - [Project Summary](#Project-Summary)
 - [Project Files](#Project-Files)
